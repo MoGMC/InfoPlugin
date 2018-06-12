@@ -1,0 +1,9 @@
+infocommand: "This text is displayed when a player executes this command.\n\
+  This is a long string, so make sure to use newline characters to separate lines.(r)\n\
+  &6&nIt is possible to format your text with the & symbol.\n\
+  It is also possbile to format your text with the c modifier.(c o)(c 3)(end)"
+info2: >
+  It is also possible to add ()tooltips(t This is a tooltip!) to your text.(r)\n
+  Make sure to use the r modifier to reset formatting after you insert a tooltip.\n
+  If you do not, the tooltip will carry over to the rest of your message.\n(end)
+info3: "It is also possible to add ()links(l http://spigotmc.org) to your text.(end)"

@@ -1,0 +1,12 @@
+name: InfoPlugin
+main: moe.hilaryoi.mc.InfoPlugin.InfoPluginPlugin
+version: 0.1
+commands:
+  reloadinfo:
+    description: Reloads InfoPlugin
+    permission: infoplugin.reload
+  infocommand: # add custom commands in this format
+    description: Description of what information this command gives
+    permission: roleplay.use
+  info2: # description and permission are optional; this is the simplest way to define an info command.
+  info3:
